@@ -16,7 +16,10 @@
         "dfu_exit_tested": false,
         "use_dfu_exit": false,
         "exclude_from_batch": false,
-        "custom_make_command": null
+        "custom_make_command": null,
+        "last_flashed": "2026-10-03 23:00:44",
+        "flashed_version": "v2026.10.00-0-g3526de3b",
+        "flashed_commit": "3526de3bfbdc"
     },
     {
         "name": "Creality 1.1.4",
